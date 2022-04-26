@@ -7,5 +7,4 @@
 
 
 
-- 📲 You can contact me on LinkedIn: https://www.linkedin.com/in/will-laverde/
-- 👀 See more of my Masters projects at: https://public.tableau.com/app/profile/william.laverde
+- 📲 You can connect with me on LinkedIn: https://www.linkedin.com/in/will-laverde/
